@@ -13,7 +13,6 @@ You can choose to make it public or private.
 3. Add dev container configuration. Once the codespace is loaded, open the Command Palette ( Ctrl+Shift+P or Cmd+Shift+P ). Type add dev and select Codespaces: Add Dev Container Configuration Files
 
 ### Step 2: Customize the devcontainer.json file
-
 1. Open the file at .devcontainer/devcontainer.json.
 
 2. Add a settings property to tell VS Code to use the Python interpreter from the virtual environment by default.
